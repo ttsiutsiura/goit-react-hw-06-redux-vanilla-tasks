@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-06-redux-vanilla-tasks/static/css/main.5763847e.css",
+    "main.js": "/goit-react-hw-06-redux-vanilla-tasks/static/js/main.8ac12394.js",
+    "index.html": "/goit-react-hw-06-redux-vanilla-tasks/index.html",
+    "main.5763847e.css.map": "/goit-react-hw-06-redux-vanilla-tasks/static/css/main.5763847e.css.map",
+    "main.8ac12394.js.map": "/goit-react-hw-06-redux-vanilla-tasks/static/js/main.8ac12394.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5763847e.css",
+    "static/js/main.8ac12394.js"
+  ]
+}
